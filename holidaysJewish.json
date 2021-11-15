@@ -1,0 +1,208 @@
+[
+	{
+        "Date": "",
+        "Name": "Tu Bishvat",
+        "Hebrew_Name": "ט''ו בשבט"
+	},
+	{
+        "Date": "",
+        "Name": "Fast of Esther",
+        "Hebrew_Name": "תענית אסתר"
+	},
+	{
+        "Date": "",
+        "Name": "Purim Eve",
+        "Hebrew_Name": "ערב חג פורים" 
+	},
+	{
+        "Date": "",
+        "Name": "Purim (Tel Aviv)",
+        "Hebrew_Name": "חג פורים - תל אביב"
+	},
+	{
+        "Date": "",
+        "Name": "Shushan Purim (Jerusalem)",
+        "Hebrew_Name": "שושן פורים - ירושלים"
+	},
+	{
+        "Date": "",
+        "Name": "Passover Eve",
+        "Hebrew_Name": "ערב חג ראשון של חג הפסח"
+	},
+	{
+        "Date": "",
+        "Name": "Passover (Day 1)",
+        "Hebrew_Name": "חג ראשון של חג הפסח"
+	},
+	{
+        "Date": "",
+        "Name": "Passover (Day 2)",
+        "Hebrew_Name": "חול המועד פסח"
+	},
+	{
+        "Date": "",
+        "Name": "Passover (Day 3)",
+        "Hebrew_Name": "חול המועד פסח"
+	},
+	{
+        "Date": "",
+        "Name": "Passover (Day 4)",
+        "Hebrew_Name": "חול המועד פסח"
+        
+	},
+	{
+        "Date": "",
+        "Name": "Passover (Day 5)",
+        "Hebrew_Name": "חול המועד פסח"
+	},
+	{
+        "Date": "",
+        "Name": "Passover (Day 6)",
+        "Hebrew_Name": "ערב החג השני של חג הפסח"
+	},
+	{
+        "Date": "",
+        "Name": "Passover (Day 7)",
+        "Hebrew_Name": "החג השני של חג הפסח"
+	},
+	{
+        "Date": "",
+        "Name": "Lag BaOmer",
+        "Hebrew_Name": "ל''ג בעומר"
+	},
+	{
+        "Date": "",
+        "Name": "Shavuot Eve",
+        "Hebrew_Name": "ערב חג השבועות"
+	},
+	{
+        "Date": "",
+        "Name": "Shavuot",
+        "Hebrew_Name": "חג השבועות"
+	},
+	{
+        "Date": "",
+        "Name": "Tisha B'Av Eve",
+        "Hebrew_Name": "צום תשעה באב"
+	},
+	{
+        "Date": "",
+        "Name": "Tisha B'Av",
+        "Hebrew_Name": "ט''ו באב"
+	},
+	{
+        "Date": "",
+        "Name": "Rosh Hashana Eve",
+        "Hebrew_Name": "ערב ראש השנה"
+	},
+	{
+        "Date": "",
+        "Name": "Rosh Hashana",
+        "Hebrew_Name": "ראש השנה"
+	},
+	{
+        "Date": "",
+        "Name": "Rosh Hashana (Day 2)",
+        "Hebrew_Name": "ראש השנה - יום 2"
+	},
+	{
+        "Date": "",
+        "Name": "Gedaliah Fast",
+        "Hebrew_Name": "צום גדליה"
+	},
+	{
+        "Date": "",
+        "Name": "Yom Kippur Eve",
+        "Hebrew_Name": "ערב יום כיפור"
+	},
+	{
+        "Date": "",
+        "Name": "Yom Kippur",
+        "Hebrew_Name": "יום כיפור"
+	},
+	{
+        "Date": "",
+        "Name": "Sukkot Eve",
+        "Hebrew_Name": " ערב חג ראשון של חג הסוכות"
+	},
+	{
+        "Date": "",
+        "Name": "Sukkot (Day 1)",
+        "Hebrew_Name": "חג ראשון של חג הסוכות"
+	},
+	{
+        "Date": "",
+        "Name": "Sukkot (Day 2)",
+        "Hebrew_Name": "חול המועד סוכות"
+	},
+	{
+        "Date": "",
+        "Name": "Sukkot (Day 3)",
+        "Hebrew_Name": "חול המועד סוכות"
+	},
+	{
+        "Date": "",
+        "Name": "Sukkot (Day 4)",
+        "Hebrew_Name": "חול המועד סוכות"
+	},
+	{
+        "Date": "",
+        "Name": "Sukkot (Day 5)",
+        "Hebrew_Name": "חול המועד סוכות"
+	},
+	{
+        "Date": "",
+        "Name": "Sukkot (Day 6)",
+        "Hebrew_Name": "חול המועד סוכות"
+	},
+	{
+        "Date": "",
+        "Name": "Sukkot (Day 7) / Hoshanah Rabah",
+        "Hebrew_Name": "ערב שמיני עצרת ושמחת תורה"
+	},
+	{
+        "Date": "",
+        "Name": "Shemini Atzeret / Simchat Torah",
+        "Hebrew_Name": "שמיני עצרת ושמחת תורה"
+	},
+	{
+        "Date": "",
+        "Name": "Hanukkah (Day 1)",
+        "Hebrew_Name": "חג החנוכה - נר ראשון"
+	},
+	{
+        "Date": "",
+        "Name": "Hanukkah (Day 2)",
+        "Hebrew_Name": "חג החנוכה - נר שני"
+	},
+	{
+        "Date": "",
+        "Name": "Hanukkah (Day 3)",
+        "Hebrew_Name": "חג החנוכה - נר שלישי"
+	},
+	{
+        "Date": "",
+        "Name": "Hanukkah (Day 4)",
+        "Hebrew_Name": "חג החנוכה - נר רביעי"
+	},
+	{
+        "Date": "",
+        "Name": "Hanukkah (Day 5)",
+        "Hebrew_Name": "חג החנוכה - נר חמישי"
+	},
+	{
+        "Date": "",
+        "Name": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+        "Hebrew_Name": "חג החנוכה - נר שישי"
+	},
+	{
+        "Date": "",
+        "Name": "Hanukkah (Day 7)",
+        "Hebrew_Name": "חג החנוכה - נר שביעי"
+	},
+	{
+        "Date": "",
+        "Name": "Hanukkah (Day 8)",
+        "Hebrew_Name": "חג החנוכה - נר שמיני"
+	}
+]

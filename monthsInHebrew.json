@@ -1,0 +1,62 @@
+[
+    {
+        "Hebrew": "ינואר",
+        "English": "January",
+        "English_short": "Jan"
+    },
+    {
+        "Hebrew": "פברואר",
+        "English": "February",
+        "English_short": "Feb"
+    },
+    {
+        "Hebrew": "מרץ",
+        "English": "March",
+        "English_short": "Mar"
+    },
+    {
+        "Hebrew": "אפריל",
+        "English": "April",
+        "English_short": "Apr"
+    },
+    {
+        "Hebrew": "מאי",
+        "English": "May",
+        "English_short": "May"
+    },
+    {
+        "Hebrew": "יוני",
+        "English": "June",
+        "English_short": "Jun"
+    },
+    {
+        "Hebrew": "יולי",
+        "English": "July",
+        "English_short": "Jul"
+    },
+    {
+        "Hebrew": "אוגוסט",
+        "English": "August",
+        "English_short": "Aug"
+    },
+    {
+        "Hebrew": "ספטמבר",
+        "English": "September",
+        "English_short": "Sep"
+    },
+    {
+        "Hebrew": "אוקטובר",
+        "English": "October",
+        "English_short": "Oct"
+    },
+    {
+        "Hebrew": "נובמבר",
+        "English": "November",
+        "English_short": "Nov"
+    },
+    {
+        "Hebrew": "דצמבר",
+        "English": "December",
+        "English_short": "Dec"
+    }
+]

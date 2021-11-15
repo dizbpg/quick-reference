@@ -1,0 +1,37 @@
+[
+    {
+        "Hebrew": "ראשון",
+        "English": "Sunday",
+        "English_short": "Sun"
+    },
+    {
+        "Hebrew": "שני",
+        "English": "Monday",
+        "English_short": "Mon"
+    },
+    {
+        "Hebrew": "שלישי",
+        "English": "Tuesday",
+        "English_short": "Tue"
+    },
+    {
+        "Hebrew": "רביעי",
+        "English": "Wednesday",
+        "English_short": "Wed"
+    },
+    {
+        "Hebrew": "חמישי",
+        "English": "Thursday",
+        "English_short": "Thu"
+    },
+    {
+        "Hebrew": "שישי",
+        "English": "Friday",
+        "English_short": "Fri"
+    },
+    {
+        "Hebrew": "שבת",
+        "English": "Saturday",
+        "English_short": "Sat"
+    }
+]
