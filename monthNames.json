@@ -1,0 +1,110 @@
+[
+    {
+        "he": {
+            "long": "ינואר"
+        },
+        "en": {
+            "long": "January",
+            "short": "Jan"
+        }
+    },
+    {
+        "he": {
+            "long": "פברואר"
+        },
+        "en": {
+            "long": "February",
+            "short": "Feb"
+        }
+    },
+    {
+        "he": {
+            "long": "מרץ"
+        },
+        "en": {
+            "long": "March",
+            "short": "Mar"
+        }
+    },
+    {
+        "he": {
+            "long": "אפריל"
+        },
+        "en": {
+            "long": "April",
+            "short": "Apr"
+        }
+    },
+    {
+        "he": {
+            "long": "מאי"
+        },
+        "en": {
+            "long": "May",
+            "short": "May"
+        }
+    },
+    {
+        "he": {
+            "long": "יוני"
+        },
+        "en": {
+            "long": "June",
+            "short": "Jun"
+        }
+    },
+    {
+        "he": {
+            "long": "יולי"
+        },
+        "en": {
+            "long": "July",
+            "short": "Jul"
+        }
+    },
+    {
+        "he": {
+            "long": "אוגוסט"
+        },
+        "en": {
+            "long": "August",
+            "short": "Aug"
+        }
+    },
+    {
+        "he": {
+            "long": "ספטמבר"
+        },
+        "en": {
+            "long": "September",
+            "short": "Sep"
+        }
+    },
+    {
+        "he": {
+            "long": "אוקטובר"
+        },
+        "en": {
+            "long": "October",
+            "short": "Oct"
+        }
+    },
+    {
+        "he": {
+            "long": "נובמבר"
+        },
+        "en": {
+            "long": "November",
+            "short": "Nov"
+        }
+    },
+    {
+        "he": {
+            "long": "דצמבר"
+        },
+        "en": {
+            "long": "December",
+            "short": "Dec"
+        }
+    }
+]

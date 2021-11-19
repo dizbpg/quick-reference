@@ -1,0 +1,72 @@
+[
+    {
+        "he": {
+            "long": "יום ראשון",
+            "short": "יום א"
+        },
+        "en": {
+            "long": "Sunday",
+            "short": "Sun"
+        }
+    },
+    {
+        "he": {
+            "long": "יום שני",
+            "short": "יום ב"
+        },
+        "en": {
+            "long": "Monday",
+            "short": "Mon"
+        }
+    },
+    {
+        "he": {
+            "long": "יום שלישי",
+            "short": "יום ג"
+        },
+        "en": {
+            "long": "Tuesday",
+            "short": "Tue"
+        }
+    },
+    {
+        "he": {
+            "long": "יום רביעי",
+            "short": "יום ד"
+        },
+        "en": {
+            "long": "Wednesday",
+            "short": "Wed"
+        }
+    },
+    {
+        "he": {
+            "long": "יום חמישי",
+            "short": "יום ה"
+        },
+        "en": {
+            "long": "Thursday",
+            "short": "Thu"
+        }
+    },
+    {
+        "he": {
+            "long": "יום שישי",
+            "short": "יום ו"
+        },
+        "en": {
+            "long": "Friday",
+            "short": "Fri"
+        }
+    },
+    {
+        "he": {
+            "long": "יום שבת",
+            "short": "יום ש"
+        },
+        "en": {
+            "long": "Saturday",
+            "short": "Sat"
+        }
+    }
+]
